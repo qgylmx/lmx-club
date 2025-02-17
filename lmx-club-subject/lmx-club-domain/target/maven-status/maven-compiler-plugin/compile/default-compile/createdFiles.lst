@@ -1,0 +1,5 @@
+com\lmx\subject\domain\convert\SubjectCategoryConverterImpl.class
+com\lmx\subject\domain\service\SubjectCategoryDomainService.class
+com\lmx\subject\domain\entity\SubjectCategoryBO.class
+com\lmx\subject\domain\service\impl\SubjectCategoryDomainServiceImpl.class
+com\lmx\subject\domain\convert\SubjectCategoryConverter.class
